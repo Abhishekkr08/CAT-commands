@@ -1,8 +1,0 @@
-this is f1.txt file
-
-
-
-
-
-and if ur reading me in the terminal then boom
-u made it !!!!!
